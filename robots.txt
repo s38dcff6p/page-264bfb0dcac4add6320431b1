@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e9d24271ac.24jiuyuan.cn/sitemap.xml
